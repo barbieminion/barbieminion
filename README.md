@@ -1,6 +1,6 @@
 ## Who am I?
 
-My name is Dana Mae Carbonel. Currently studying Bachelor of Science in Information System at City College of Angeles. I am also working from home as a Marketing Assistant in an offshore account.
+My name is Dana. Currently studying Bachelor of Science in Information System at City College of Angeles. I am also working from home as a Marketing Assistant in an offshore account.
 
 ## My Skills
 - Basic Excel Formulas
